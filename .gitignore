@@ -1,0 +1,7 @@
+# only track changes on relevant files
+**/*.env
+**/*.log
+**/*.zip
+**/*.tif
+**/thumbs.db
+**/*.DS_Store
